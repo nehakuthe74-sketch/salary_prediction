@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 
-df=pd.read_csv("https://github.com/nehakuthe74-sketch/salary_prediction/edit/main/Salary%20Data.csv")
+df=pd.read_csv("https://raw.githubusercontent.com/nehakuthe74-sketch/salary_prediction/refs/heads/main/Salary%20Data.csv")
 
 df.head()
 
