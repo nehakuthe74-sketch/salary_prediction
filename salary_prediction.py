@@ -17,7 +17,7 @@ if not os.path.exists(file_path):
         "Make sure 'Salary Data.csv' is in the same directory as this script."
     )
 
-df = pd.read_csv(file_path)
+df = pd.read_csv(https://raw.githubusercontent.com/nehakuthe74-sketch/salary_prediction/refs/heads/main/salary_prediction.py)
 
 print("Dataset loaded successfully!\n")
 print(df.head())
